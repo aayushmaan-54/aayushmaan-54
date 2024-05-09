@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Backend**
 
-- 💬 Ask me about **HTML, CSS, JS, React**
+- 💬 Ask me about **React, Tailwind CSS, TS, React**
 
 - 📫 How to reach me **aayushmaan.soni54@gmail.com**
   
