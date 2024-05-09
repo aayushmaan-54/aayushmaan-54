@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayushmaan Soni</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🌱 I’m currently learning **React, Backend**
+- 🌱 I’m currently mastering **Frontend**
 
 - 💬 Ask me about **React, Tailwind CSS, TS, React**
 
