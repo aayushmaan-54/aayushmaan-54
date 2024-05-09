@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently mastering **Frontend**
 
-- 💬 Ask me about **React, Tailwind CSS, TS, React**
+- 💬 Ask me about **React, Tailwind CSS, TS**
 
 - 📫 How to reach me **aayushmaan.soni54@gmail.com**
   
