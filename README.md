@@ -3,7 +3,7 @@
 
 <!--- Header -->
 <p align="center">
-  <a href="https://aayushmaan-portfolio.vercel.app">Portfolios</a> -
+  <a href="https://aayushmaan-portfolio.vercel.app">Portfolio</a> -
   <a href="https://www.linkedin.com/in/aayushmaan54">LinkedIn</a> - 
   <a href="https://x.com/aayushmaan54">Twitter</a> -
   <a href="https://aayushmaan-portfolio.vercel.app/#contact">Contact me.</a>
